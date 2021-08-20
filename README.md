@@ -9,3 +9,7 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=kadoshita&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadoshita&layout=compact" />
 </div>
+
+---
+
+[![kadoshita's github activity graph](https://activity-graph.herokuapp.com/graph?username=kadoshita&theme=react-dark)](https://github.com/kadoshita)
