@@ -12,4 +12,4 @@
 
 ---
 
-[![kadoshita's github activity graph](https://activity-graph.herokuapp.com/graph?username=kadoshita&theme=react-dark)](https://github.com/kadoshita)
+[![kadoshita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kadoshita&theme=react-dark)](https://github.com/kadoshita)
